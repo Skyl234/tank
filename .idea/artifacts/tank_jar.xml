@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="tank:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/tank_jar</output-path>
+    <root id="root">
+      <element id="archive" name="tank.jar">
+        <element id="module-output" name="tank" />
+      </element>
+    </root>
+  </artifact>
+</component>
